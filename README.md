@@ -82,3 +82,8 @@ declare mlp function
 go to ViT and repeat the transformer = 12 = number of layers
 
 add the classification task 
+
+
+
+
+![My Image](Drawing1.jpg)
