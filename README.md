@@ -86,4 +86,8 @@ add the classification task
 
 
 
+Steps i followed to implement ViT 
+
+
+
 ![My Image](Drawing1.jpg)
